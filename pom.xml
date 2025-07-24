@@ -27,6 +27,7 @@
 
   <dependencies>
     <!-- Dependencies -->
+    <!-- Dependencies -->
     <dependency>
       <groupId>org.eclipse.microprofile</groupId>
       <artifactId>microprofile</artifactId>
